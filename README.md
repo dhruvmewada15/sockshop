@@ -1,19 +1,19 @@
 # sockshop
 Dynatrace Sockshop
 
-Guidelines for a new joined developer:
+### Guidelines for a new joined developer:
 
-To get started, follow below steps:
+  To get started, follow below steps:
 
-Main Branch -> Master
+  Main Branch -> Master
 
-1) Fork the repository
-2) Make a clone in your local system.
-3) Make different branch for different features - make changes and commits in the respective branch only.
-4) Once test are suucessful, merge feature branch o your master branch.
-5) Push the changes to master branch of your forked repository.
-6) Create a pull request to merge the changes into official repository
-7) After code is reviwed, the code is then merged with the official repo.
+    1) Fork the repository
+    2) Make a clone in your local system.
+    3) Make different branch for different features - make changes and commits in the respective branch only.
+    4) Once test are suucessful, merge feature branch o your master branch.
+    5) Push the changes to master branch of your forked repository.
+    6) Create a pull request to merge the changes into official repository
+    7) After code is reviwed, the code is then merged with the official repo.
 
 
 Note:-
